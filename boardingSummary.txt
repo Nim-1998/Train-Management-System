@@ -1,0 +1,538 @@
+Boarded details of Denuwaramanike Train 
+Boarded details
+Passenger name : nimna
+Passenger seat Number : 1
+Passenger boarded time : 10
+Boarded details
+Passenger name : vishmi
+Passenger seat Number : 2
+Passenger boarded time : 10
+Boarded details
+Passenger name : deepika
+Passenger seat Number : 3
+Passenger boarded time : 12
+Boarded details
+Passenger name : ranjith
+Passenger seat Number : 4
+Passenger boarded time : 10
+Boarded details
+Passenger name : ravishani
+Passenger seat Number : 5
+Passenger boarded time : 13
+Boarded details
+Passenger name : navodi
+Passenger seat Number : 6
+Passenger boarded time : 8
+Boarded details
+Passenger name : nilanthi
+Passenger seat Number : 7
+Passenger boarded time : 8
+Boarded details
+Passenger name : lal
+Passenger seat Number : 8
+Passenger boarded time : 6
+Boarded details
+Passenger name : kumari
+Passenger seat Number : 9
+Passenger boarded time : 10
+Boarded details
+Passenger name : sachi
+Passenger seat Number : 10
+Passenger boarded time : 12
+Boarded details
+Passenger name : chathu
+Passenger seat Number : 11
+Passenger boarded time : 12
+Boarded details
+Passenger name : ahi
+Passenger seat Number : 12
+Passenger boarded time : 14
+Boarded details
+Passenger name : virudini
+Passenger seat Number : 13
+Passenger boarded time : 12
+Boarded details
+Passenger name : methu
+Passenger seat Number : 14
+Passenger boarded time : 13
+Boarded details
+Passenger name : nathi
+Passenger seat Number : 15
+Passenger boarded time : 13
+Boarded details
+Passenger name : chanu
+Passenger seat Number : 16
+Passenger boarded time : 10
+Boarded details
+Passenger name : rugithna
+Passenger seat Number : 17
+Passenger boarded time : 15
+Boarded details
+Passenger name : ruk
+Passenger seat Number : 18
+Passenger boarded time : 14
+Boarded details
+Passenger name : sula
+Passenger seat Number : 19
+Passenger boarded time : 9
+Boarded details
+Passenger name : sawithna
+Passenger seat Number : 21
+Passenger boarded time : 13
+Boarded details
+Passenger name : thilini
+Passenger seat Number : 22
+Passenger boarded time : 13
+Boarded details
+Passenger name : isanka
+Passenger seat Number : 23
+Passenger boarded time : 13
+Boarded details
+Passenger name : lali
+Passenger seat Number : 24
+Passenger boarded time : 8
+Boarded details
+Passenger name : chan
+Passenger seat Number : 25
+Passenger boarded time : 8
+Boarded details
+Passenger name : dinushan
+Passenger seat Number : 26
+Passenger boarded time : 12
+Boarded details
+Passenger name : dinushani
+Passenger seat Number : 27
+Passenger boarded time : 11
+Boarded details
+Passenger name : eshani
+Passenger seat Number : 28
+Passenger boarded time : 6
+Boarded details
+Passenger name : chara
+Passenger seat Number : 29
+Passenger boarded time : 15
+Boarded details
+Passenger name : binu
+Passenger seat Number : 30
+Passenger boarded time : 10
+Boarded details
+Passenger name : bimsal
+Passenger seat Number : 31
+Passenger boarded time : 10
+Boarded details
+Passenger name : kanti
+Passenger seat Number : 32
+Passenger boarded time : 11
+Boarded details
+Passenger name : shehan
+Passenger seat Number : 33
+Passenger boarded time : 12
+Boarded details
+Passenger name : ishan
+Passenger seat Number : 34
+Passenger boarded time : 11
+Boarded details
+Passenger name : ramudi
+Passenger seat Number : 36
+Passenger boarded time : 14
+Boarded details
+Passenger name : diniti
+Passenger seat Number : 37
+Passenger boarded time : 10
+Boarded details
+Passenger name : vipula
+Passenger seat Number : 38
+Passenger boarded time : 14
+Boarded details
+Passenger name : chamila
+Passenger seat Number : 39
+Passenger boarded time : 7
+Boarded details
+Passenger name : amila
+Passenger seat Number : 40
+Passenger boarded time : 17
+Boarded details
+Passenger name : ranjith
+Passenger seat Number : 41
+Passenger boarded time : 14
+Boarded details
+Passenger name : deepika
+Passenger seat Number : 42
+Passenger boarded time : 15
+Boarded details of Denuwaramanike Train 
+Boarded details
+Passenger name : nimna
+Passenger seat Number : 1
+Passenger boarded time : 10
+Boarded details
+Passenger name : vishmi
+Passenger seat Number : 2
+Passenger boarded time : 7
+Boarded details
+Passenger name : deepika
+Passenger seat Number : 3
+Passenger boarded time : 12
+Boarded details
+Passenger name : ranjith
+Passenger seat Number : 4
+Passenger boarded time : 12
+Boarded details
+Passenger name : navodi
+Passenger seat Number : 5
+Passenger boarded time : 9
+Boarded details
+Passenger name : lal
+Passenger seat Number : 6
+Passenger boarded time : 10
+Boarded details
+Passenger name : ravishani
+Passenger seat Number : 7
+Passenger boarded time : 10
+Boarded details of Denuwaramanike Train 
+Boarded details
+Passenger name : nimna
+Passenger seat Number : 1
+Passenger boarded time : 9
+Boarded details
+Passenger name : vishmi
+Passenger seat Number : 2
+Passenger boarded time : 14
+Boarded details
+Passenger name : deepika
+Passenger seat Number : 3
+Passenger boarded time : 6
+Boarded details
+Passenger name : ranjith
+Passenger seat Number : 4
+Passenger boarded time : 10
+Boarded details
+Passenger name : navodi
+Passenger seat Number : 5
+Passenger boarded time : 5
+Boarded details
+Passenger name : lal
+Passenger seat Number : 6
+Passenger boarded time : 11
+
+Train Queu current length : 0
+Total waiting time spend in Train Queue : 55
+Average time spend in Train Queue : 9.0
+Minimum time took to check one passenger's boarding ticket : 5
+Maximum time took to check one passenger's boarding ticket : 14
+
+Boarded details of Denuwaramanike Train 
+Boarded details
+Passenger name : nimna
+Passenger seat Number : 1
+Passenger boarded time : 12
+
+Boarded details
+Passenger name : vishmi
+Passenger seat Number : 2
+Passenger boarded time : 16
+
+Boarded details
+Passenger name : deepika
+Passenger seat Number : 3
+Passenger boarded time : 10
+
+Boarded details
+Passenger name : ranjith
+Passenger seat Number : 4
+Passenger boarded time : 12
+
+Boarded details
+Passenger name : navodi
+Passenger seat Number : 5
+Passenger boarded time : 14
+
+
+Train Queu current length : 0
+Total waiting time spend in Train Queue : 64
+Average time spend in Train Queue : 12.0
+Minimum time took to check one passenger's boarding ticket : 10
+Maximum time took to check one passenger's boarding ticket : 16
+
+Boarded details of Denuwaramanike Train 
+Boarded details
+Passenger name : nimna
+Passenger seat Number : 1
+Passenger boarded time : 6
+
+Boarded details
+Passenger name : vishmi
+Passenger seat Number : 2
+Passenger boarded time : 9
+
+Boarded details
+Passenger name : deepika
+Passenger seat Number : 3
+Passenger boarded time : 10
+
+Boarded details
+Passenger name : ranjith
+Passenger seat Number : 4
+Passenger boarded time : 8
+
+Boarded details
+Passenger name : navodi
+Passenger seat Number : 5
+Passenger boarded time : 10
+
+Boarded details
+Passenger name : lal
+Passenger seat Number : 6
+Passenger boarded time : 13
+
+
+Train Queue current length : 6
+Total waiting time spend in Train Queue : 56
+Average time spend in Train Queue : 9.0
+Minimum time took to check one passenger's boarding ticket : 6
+Maximum time took to check one passenger's boarding ticket : 13
+
+Boarded details of Denuwaramanike Train 
+Boarded details
+Passenger name : nimna
+Passenger seat Number : 1
+Passenger boarded time : 13
+
+Boarded details
+Passenger name : vishmi
+Passenger seat Number : 2
+Passenger boarded time : 14
+
+Boarded details
+Passenger name : deepika
+Passenger seat Number : 3
+Passenger boarded time : 7
+
+
+Train Queue current length : 3
+Total waiting time spend in Train Queue : 34
+Average time spend in Train Queue : 11.0
+Minimum time took to check one passenger's boarding ticket : 7
+Maximum time took to check one passenger's boarding ticket : 14
+
+Boarded details of Denuwaramanike Train 
+Boarded details
+Passenger name : nimna
+Passenger seat Number : 1
+Passenger boarded time : 13
+
+Boarded details
+Passenger name : deepika
+Passenger seat Number : 3
+Passenger boarded time : 13
+
+Boarded details
+Passenger name : ranjith
+Passenger seat Number : 4
+Passenger boarded time : 10
+
+Boarded details
+Passenger name : vipula
+Passenger seat Number : 42
+Passenger boarded time : 12
+
+Boarded details
+Passenger name : chamila
+Passenger seat Number : 41
+Passenger boarded time : 9
+
+Boarded details
+Passenger name : ramudi
+Passenger seat Number : 39
+Passenger boarded time : 10
+
+Boarded details
+Passenger name : nandi
+Passenger seat Number : 38
+Passenger boarded time : 12
+
+Boarded details
+Passenger name : menu
+Passenger seat Number : 37
+Passenger boarded time : 7
+
+Boarded details
+Passenger name : ravishani
+Passenger seat Number : 5
+Passenger boarded time : 14
+
+Boarded details
+Passenger name : navodi
+Passenger seat Number : 6
+Passenger boarded time : 9
+
+
+Train Queue current length : 10
+Total waiting time spend in Train Queue : 109
+Average time spend in Train Queue : 10.0
+Minimum time took to check one passenger's boarding ticket : 7
+Maximum time took to check one passenger's boarding ticket : 14
+
+Boarded details of Denuwaramanike Train 
+Boarded details
+Passenger name : lal
+Passenger seat Number : 10
+Passenger boarded time : 6
+
+
+Train Queue current length : 1
+Total waiting time spend in Train Queue : 6
+Average time spend in Train Queue : 6.0
+Minimum time took to check one passenger's boarding ticket : 6
+Maximum time took to check one passenger's boarding ticket : 6
+
+Boarded details of Denuwaramanike Train 
+Boarded details
+Passenger name : nimna
+Passenger seat Number : 1
+Passenger boarded time : 11
+
+Boarded details
+Passenger name : vishmi
+Passenger seat Number : 2
+Passenger boarded time : 7
+
+Boarded details
+Passenger name : deepika
+Passenger seat Number : 3
+Passenger boarded time : 10
+
+Boarded details
+Passenger name : ranjith
+Passenger seat Number : 4
+Passenger boarded time : 13
+
+Boarded details
+Passenger name : vipula
+Passenger seat Number : 42
+Passenger boarded time : 9
+
+Boarded details
+Passenger name : chamila
+Passenger seat Number : 41
+Passenger boarded time : 5
+
+Boarded details
+Passenger name : diniti
+Passenger seat Number : 40
+Passenger boarded time : 11
+
+Boarded details
+Passenger name : ramudi
+Passenger seat Number : 39
+Passenger boarded time : 6
+
+
+Train Queue current length : 8
+Total waiting time spend in Train Queue : 72
+Average time spend in Train Queue : 9.0
+Minimum time took to check one passenger's boarding ticket : 5
+Maximum time took to check one passenger's boarding ticket : 13
+
+Boarded details of Denuwaramanike Train 
+Boarded details
+Passenger name : nimna
+Passenger seat Number : 1
+Passenger boarded time : 14
+
+Boarded details
+Passenger name : vishmi
+Passenger seat Number : 2
+Passenger boarded time : 8
+
+Boarded details
+Passenger name : deepika
+Passenger seat Number : 3
+Passenger boarded time : 6
+
+Boarded details
+Passenger name : ranjith
+Passenger seat Number : 4
+Passenger boarded time : 18
+
+Boarded details
+Passenger name : vipula
+Passenger seat Number : 42
+Passenger boarded time : 8
+
+Boarded details
+Passenger name : chamila
+Passenger seat Number : 41
+Passenger boarded time : 14
+
+Boarded details
+Passenger name : ramudi
+Passenger seat Number : 39
+Passenger boarded time : 9
+
+Boarded details
+Passenger name : nandi
+Passenger seat Number : 38
+Passenger boarded time : 9
+
+Boarded details
+Passenger name : menu
+Passenger seat Number : 37
+Passenger boarded time : 7
+
+Boarded details
+Passenger name : ravishani
+Passenger seat Number : 5
+Passenger boarded time : 10
+
+
+Train Queue current length : 10
+Total waiting time spend in Train Queue : 103
+Average time spend in Train Queue : 10.0
+Minimum time took to check one passenger's boarding ticket : 6
+Maximum time took to check one passenger's boarding ticket : 18
+
+Boarded details of Denuwaramanike Train 
+Boarded details
+Passenger name : shriya
+Passenger seat Number : 7
+Passenger boarded time : 11
+
+
+Train Queue current length : 1
+Total waiting time spend in Train Queue : 11
+Average time spend in Train Queue : 11.0
+Minimum time took to check one passenger's boarding ticket : 11
+Maximum time took to check one passenger's boarding ticket : 11
+
+Boarded details of Denuwaramanike Train 
+Boarded details
+Passenger name : navodi
+Passenger seat Number : 1
+Passenger boarded time : 10
+
+Boarded details
+Passenger name : vishmi
+Passenger seat Number : 2
+Passenger boarded time : 13
+
+Boarded details
+Passenger name : deepika
+Passenger seat Number : 3
+Passenger boarded time : 8
+
+Boarded details
+Passenger name : ranjith
+Passenger seat Number : 9
+Passenger boarded time : 11
+
+Boarded details
+Passenger name : navodi
+Passenger seat Number : 37
+Passenger boarded time : 13
+
+
+Train Queue current length : 5
+Total waiting time spend in Train Queue : 55
+Average time spend in Train Queue : 11.0
+Minimum time took to check one passenger's boarding ticket : 8
+Maximum time took to check one passenger's boarding ticket : 13
